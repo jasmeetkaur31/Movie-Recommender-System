@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System
 
-A content-based movie recommendation system built with **Python**, **Streamlit**, and the **TMDB API**.
+A content-based movie recommendation system built with **Python**, **Streamlit**, and the ***OMDB API**.
 Given a movie title, it suggests similar movies and displays their posters in an interactive web app.
 
  📸 Screenshots
